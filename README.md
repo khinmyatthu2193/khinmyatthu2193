@@ -1,20 +1,17 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>Hi, I'm Khin Myat Thu</h1>
 
 <p>
-Welcome to my GitHub profile!<br/>
-I'm <b>Khin Myat Thu</b>, a Computer Science student from 🇲🇲 Myanmar, currently studying at <b>Myanmar Institute of Information Technology</b>.
+Computer Science student at <b>Myanmar Institute of Information Technology</b>, Myanmar.
+Focused on full-stack development, backend systems, and building practical software solutions.
 </p>
 
-<h3>🚀 About Me</h3>
-<ul>
-  <li>🎓 Final year CS student</li>
-  <li>💻 Passionate about full-stack development</li>
-  <li>📱 Currently building real-world projects (like <b>Climbio</b>)</li>
-  <li>🤖 Interested in AI-assisted development & vibe coding</li>
-  <li>🎯 Goal: Become a Software Engineer & ship impactful products</li>
-</ul>
+<h3>Profile Summary</h3>
+<p>
+I am a final-year Computer Science student with hands-on experience in full-stack web and mobile application development. 
+I enjoy building scalable systems and working on real-world projects that solve practical problems, particularly in the domains of e-commerce and MSME digital transformation.
+</p>
 
-<h3>🛠️ Things I code with</h3>
+<h3>Technical Skills</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -29,30 +26,47 @@ I'm <b>Khin Myat Thu</b>, a Computer Science student from 🇲🇲 Myanmar, curr
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-<h3>📌 Featured Project</h3>
-<ul>
-  <li>
-    <b>Climbio</b> – A mobile-first platform for MSMEs in Myanmar to manage orders, promotion, and customer engagement using React Native & Firebase.
-  </li>
-</ul>
+<h3>Projects</h3>
 
-<h3>📊 GitHub Stats</h3>
+<p><b>Climbio</b></p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khinmyatthu2193&show_icons=true&theme=tokyonight" />
+Mobile-first platform designed for MSMEs in Myanmar to manage orders, promote products, and improve customer engagement.  
+Built using React Native and Firebase.
 </p>
 
-<h3>🌐 Connect with me</h3>
+<ul>
+  <li>Implemented modular architecture for scalability</li>
+  <li>Integrated Firebase for authentication and real-time data handling</li>
+  <li>Focused on user-centric mobile experience design</li>
+</ul>
+
+<h3>Areas of Interest</h3>
+<ul>
+  <li>Full-stack web development</li>
+  <li>Backend system design</li>
+  <li>Mobile application development</li>
+  <li>Cloud services and Firebase ecosystem</li>
+  <li>AI-assisted development workflows</li>
+</ul>
+
+<h3>Education</h3>
 <p>
-  <a href="https://github.com/khinmyatthu2193">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<b>B.Sc. in Computer Science</b><br/>
+Myanmar Institute of Information Technology (MIIT)
+</p>
+
+<h3>Contact</h3>
+<p>
+<a href="https://github.com/khinmyatthu2193">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
 
 <p align="center">
-<i>Building step by step toward becoming a software engineer 🚀</i>
+This profile highlights my academic background, technical skills, and project experience.
 </p>

@@ -1,72 +1,144 @@
-<h1>Hi, I'm Khin Myat Thu</h1>
+<h1 align="center">Hi there 👋 I'm Khin Myat Thu</h1>
 
-<p>
-Computer Science student at <b>Myanmar Institute of Information Technology</b>, Myanmar.
-Focused on full-stack development, backend systems, and building practical software solutions.
+<p align="center">
+Final-year Computer Science Student @ Myanmar Institute of Information Technology 🇲🇲<br/>
+Full-Stack Developer • Mobile & Web Engineer • Software Engineer
 </p>
 
-<h3>Profile Summary</h3>
-<p>
-I am a final-year Computer Science student with hands-on experience in full-stack web and mobile application development. 
-I enjoy building scalable systems and working on real-world projects that solve practical problems, particularly in the domains of e-commerce and MSME digital transformation.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+Native+%7C+Django+%7C+Firebase;Building+real-world+systems;Hackathon+Participant+%F0%9F%9A%80;Problem+Solver+%7C+Builder+%7C+Learner" />
 </p>
 
-<h3>Technical Skills</h3>
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+---
+
+## ✨ About Me
+
+Final-year Computer Science student with experience building real-world digital systems in **web, mobile, and AI-related applications**.
+
+I enjoy working on real-world problems that involve real users, workflows, and practical impact — especially in small business digitization and mobile/web systems.
+
+- 📍 Mandalay, Myanmar  
+- 📧 Email: khinmyatthu2193@gmail.com  
+- 💼 Focus: Full-stack & mobile application development  
+- 🚀 Goal: Software Engineer / Product Builder  
+
+---
+
+## 🧠 Profile Summary
+
+Passionate developer with hands-on experience in **React, React Native, Django, and Firebase**.
+
+Strong interest in:
+- Scalable system design
+- Real-time applications
+- MSME digital transformation
+- Hackathon-based innovation
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,js,react,firebase,mysql,postgres,bootstrap,tailwind,git,java" />
 </p>
 
-<h3>Projects</h3>
+---
+## 📌 Project Experience
 
-<p><b>Climbio</b></p>
-<p>
-Mobile-first platform designed for MSMEs in Myanmar to manage orders, promote products, and improve customer engagement.  
-Built using React Native and Firebase.
+### 🛒 Branded Cosmetics Online Shopping System
+**Full-Stack Web Application | Jun 2024 – Oct 2024**
+- Built e-commerce system with authentication and product management
+- Designed database structure for scalable product listing
+- Implemented order workflow for smooth user experience
+
+---
+
+### ♻️ RecycleLink – EcoCommerce Platform
+**Django + WebSockets | Dec 2024 – Mar 2025**
+- Developed real-time recycling platform using Django Channels
+- Implemented location-based supplier notification system
+- Improved waste collection efficiency using proximity matching
+
+---
+
+### 📱 Climbio – MSME Smart Business Toolkit
+**React Native + Firebase | Jun 2025 – Oct 2025**
+- Built mobile-first business management system for MSMEs
+- Designed MiniCatalog, Smart Inbox, and referral tracking modules
+- Focused on scalability and user-friendly mobile UX
+
+---
+
+### 🤖 Career Ladder – AI Career Mapping System
+**Hackathon Project | Oct 2025**
+- Designed AI-based career recommendation system
+- Generates personalized learning paths and job insights
+
+---
+
+### 🌾 Future Harvest – Smart Agriculture System
+**Hackathon Project | Nov 2025**
+- Proposed sustainable agriculture solution using SMNR technology
+- Focused on food security and climate resilience
+
+---
+
+### 🤖 Strivo – AI Strategic Planning System for MSMEs
+**React Native + Gemini AI | May 2026**
+- Built an AI-powered mobile application for strategic business planning
+- Integrated **Google Gemini AI** to generate structured insights and recommendations
+- Designed to help MSMEs improve decision-making and business growth strategies
+
+
+---
+## 🏆 Achievements
+
+🏅 **1st Place – One Project One Week Hackathon (Technortal)**  
+May 23 – May 31, 2026  
+Built **Strivo – AI Strategic Planning System for MSMEs**, an AI-powered tool that helps small businesses generate structured strategies and improve decision-making.
+
+🏅 **1st Place – AI for Climate-Resilient Agriculture Hackathon (2026)**  
+March 2026  
+Organized by UNDP Myanmar, UN Technology Bank, SDGAIO LAB  
+
+🥈 **2nd Place – HackAtom Science Festival Myanmar (2025)**  
+November 2025
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=khinmyatthu2193&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khinmyatthu2193&theme=tokyonight&hide_border=true" />
 </p>
 
-<ul>
-  <li>Implemented modular architecture for scalability</li>
-  <li>Integrated Firebase for authentication and real-time data handling</li>
-  <li>Focused on user-centric mobile experience design</li>
-</ul>
-
-<h3>Areas of Interest</h3>
-<ul>
-  <li>Full-stack web development</li>
-  <li>Backend system design</li>
-  <li>Mobile application development</li>
-  <li>Cloud services and Firebase ecosystem</li>
-  <li>AI-assisted development workflows</li>
-</ul>
-
-<h3>Education</h3>
-<p>
-<b>B.Sc. in Computer Science</b><br/>
-Myanmar Institute of Information Technology (MIIT)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khinmyatthu2193&theme=react-dark" />
 </p>
 
-<h3>Contact</h3>
-<p>
-<a href="https://github.com/khinmyatthu2193">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:khinmyatthu2193@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/khinmyatthu2193">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/khin-myat-thu-837892352">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-This profile highlights my academic background, technical skills, and project experience.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F7FD5&height=120&section=footer"/>
+</p>
+
+<p align="center">
+<i>Building real-world systems. Learning by doing. Shipping impactful solutions 🚀</i>
 </p>

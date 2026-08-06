@@ -108,29 +108,45 @@ November 2025
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=khinmyatthu2193&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-  />
-  <img
-    height="180em"
-    src="https://streak-stats.demolab.com?user=khinmyatthu2193&theme=tokyonight&hide_border=true"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    width="90%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=khinmyatthu2193&theme=tokyo-night&hide_border=true"
-  />
-</p>
+<table border="0">
+<tr>
+<td>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khinmyatthu2193&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.shion.dev/api?username=khinmyatthu2193&show_icons=true&hide_border=true&theme=tokyonight&border_radius=15">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.shion.dev/api?username=khinmyatthu2193&show_icons=true&hide_border=true&theme=default&border_radius=15">
+  <img height="180em">
+</picture>
+
+</td>
+
+<td>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=khinmyatthu2193&theme=tokyonight&hide_border=true&border_radius=15">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=khinmyatthu2193&theme=default&hide_border=true&border_radius=15">
+  <img height="180em">
+</picture>
+
+</td>
+</tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=khinmyatthu2193&theme=tokyo-night&hide_border=true&radius=15">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=khinmyatthu2193&theme=github-light&hide_border=true&radius=15">
+  <img width="95%">
+</picture>
+
+</div>
 
 ---
 
